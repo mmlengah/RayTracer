@@ -1,6 +1,8 @@
 # RayTracer
 Creating a raytracer in c++
 
+---
+
 ## Dependencies
 
 This project relies on two main external libraries: GLEW (OpenGL Extension Wrangler Library) and SDL2 (Simple DirectMedia Layer). Both of these libraries have been bundled in the `Dependencies` folder for ease of use. Below are details on each of the dependencies:
