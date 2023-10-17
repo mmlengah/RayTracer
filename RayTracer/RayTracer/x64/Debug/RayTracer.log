@@ -1,4 +1,7 @@
 ﻿  main.cpp
+  LINK : C:\Users\mmlen\Documents\GitHub\RayTracer\RayTracer\x64\Debug\RayTracer.exe not found or not built by the last incremental link; performing full link
   RayTracer.vcxproj -> C:\Users\mmlen\Documents\GitHub\RayTracer\RayTracer\x64\Debug\RayTracer.exe
-  0 File(s) copied
-  0 File(s) copied
+  C:\Users\mmlen\Documents\GitHub\RayTracer\RayTracer\Dependencies\SDL2-2.28.4\lib\x64\SDL2.dll
+  1 File(s) copied
+  C:\Users\mmlen\Documents\GitHub\RayTracer\RayTracer\Dependencies\glew-2.2.0\bin\Release\x64\glew32.dll
+  1 File(s) copied
