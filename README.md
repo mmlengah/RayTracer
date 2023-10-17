@@ -16,11 +16,8 @@ This project relies on two main external libraries: GLEW (OpenGL Extension Wrang
   Used to facilitate OpenGL function calls and manage extensions.
 
 - **Setup**:
-  - The required headers and libraries for GLEW can be found in `Dependencies/glew-2.2.0/`.
+  - Download the required version of SDL2 (2.28.4) from the [GLEW Official Website](http://glew.sourceforge.net/).
   - Ensure that your project links to the appropriate `.lib` or `.dll` files within this directory.
-
-- **More information**: 
-  [GLEW Official Website](http://glew.sourceforge.net/)
 
 ---
 
@@ -33,12 +30,9 @@ This project relies on two main external libraries: GLEW (OpenGL Extension Wrang
   Used to handle window creation, input events, and provide a rendering context.
 
 - **Setup**:
-  - The required headers and libraries for SDL2 can be found in `Dependencies/SDL2-2.28.4/`.
+  - Download the required version of SDL2 (2.28.4) from the [SDL2 Official Website](https://www.libsdl.org/).
   - Make sure to link against the provided SDL2 libraries and include the header files in your project settings.
-
-- **More information**: 
-  [SDL2 Official Website](https://www.libsdl.org/)
-
+  
 ---
 ## Folder Structure
 Below is the main directory structure of the project:
